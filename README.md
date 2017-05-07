@@ -6,7 +6,8 @@ The script rpi3_dnsmaq_AP.sh is made for the Rpi3 by using the built-in wifi ant
 The script uses Hostapd and dnsmasq and is made to automatically download the required apps and create the required config files. You must have the Raspberry pi connected to the internet with a cable not wifi.
 
 Installation.
-from the terminal window type:
+From the terminal window type:
+
 sudo git clone https://github.com/granpino/Rpi3_AP_script.git
 cd Rpi3_AP_script
 sudo ./rpi3_dnsmasq_AP.sh
